@@ -1,7 +1,6 @@
 # MOOC Motor Control Part 3: Troubleshooting and fine-tuning 
 
-WARNING  : 
-    This material has been created in 2018 and is delivered as it is.
+Disclaimer: This material was created in 2018 and is delivered as is.
 
 ## MOOC purpose 
 
